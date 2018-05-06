@@ -1,5 +1,5 @@
 // AUTO SAFELINK FOR WWW.IDBLANTER.COM SAFELINK.BLANTER.NET
-var blog_url="http://www.boneka-kayu.xyz/"; // Homepage Blog Safelink
+var blog_url="http://www.boneka-kayu.xyz"; // Homepage Blog Safelink
 var article1="/2018/05/all-about-internet-advertising-methods.html"; // Article 1
 var article2="/2018/05/three-traffic-tactics-that-wont-cost.html"; // Article 2
 var article3="/2018/05/the-best-internet-advertising-is-free.html"; // Article 3
